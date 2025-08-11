@@ -36,6 +36,16 @@ Quiero crecer como **desarrolladora backend**, participando en proyectos reales 
 
 ---
 
+## 📂 Proyectos
+
+- [**Héroes Cercanos**](https://github.com/HeroesCercanos) — Plataforma para apoyar a bomberos mediante donaciones, reportes de incidentes y gestión administrativa.  
+  **Tecnologías:** NestJS · PostgreSQL · TypeORM · JWT · MercadoPago API
+
+- [**PM4BE - Backend**](https://github.com/pi-rym/PM4BE-manucastroa7) — Backend para una aplicación de gestión, con arquitectura modular, endpoints seguros y base de datos relacional.  
+  **Tecnologías:** Node.js · Express · PostgreSQL · Sequelize · JWT
+
+---
+
 ## 📫 Contacto
 - 💼 **LinkedIn:** [www.linkedin.com/in/manucastroa7](https://www.linkedin.com/in/manucastroa7)  
 - 📧 **Email:** manucastroa7@gmail.com
